@@ -30,6 +30,4 @@ In the WeatherApp.py file has a method called getWeather which takes city name a
 
 ## Video Recording of the Project :
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/jQq7j4MQhyE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Video Recording for the Project](image-3.png)](https://youtu.be/jQq7j4MQhyE "Video Recording for the Project")
