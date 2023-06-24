@@ -2,7 +2,7 @@ import requests
 from credentials import *
 from datetime import datetime
 
-def findCity(cityName):
+def getWeather(cityName):
         
     complete_url = BASE_URL + "appid=" + API_KEY + "&q=" + cityName
     response = requests.get(complete_url)
