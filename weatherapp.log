@@ -1,0 +1,6 @@
+2023-06-24 15:54:44,520 DEBUG Starting new HTTP connection (1): api.openweathermap.org:80
+2023-06-24 15:54:44,708 DEBUG http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=8a29f69253228446ac8a44f14377a244&q=Delhi HTTP/1.1" 200 539
+2023-06-24 15:54:49,725 INFO Weather Forecast App started
+2023-06-24 15:54:49,725 INFO City Name: Delhi
+2023-06-24 15:54:49,725 INFO City Data: {'Weather': 'Haze', 'main': {'Temprature': 33, 'Feels Like': 40, 'Minimum Temprature': 33, 'Maximum Temprature': 33, 'Pressure': 999, 'Humidity': 62}, 'wind': {'Speed': 4.12, 'Degree': 70}, 'sun': {'Sunrise': '24-06-2023 05:24:19 AM', 'Sunset': '24-06-2023 19:22:25 PM'}}
+2023-06-24 15:54:49,725 INFO Weather Forecast App Ended

@@ -19,7 +19,5 @@
 ## Video Recording of the Project :
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="VideoRecording.mkv" type="video/mkv"> 
-  </video>
+  <iframe src="https://youtu.be/jQq7j4MQhyE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
